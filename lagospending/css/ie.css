@@ -1,0 +1,10 @@
+#quote {
+    width:235px;
+    height:auto;
+    float:right;
+    margin-top:55px;
+    margin-right:20px;
+    padding-left:35px;
+    background: transparent url(../images/quote_left.png) 0px 10px no-repeat;
+}
+
